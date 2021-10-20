@@ -8,29 +8,31 @@
 
 ## Click port 22  at the bottem left
 
-![SearchSSH](/images/Click22.png)
+![Click22](/images/Click22.png)
 
 ## Click an IP adress
 
-![SearchSSH](/images/ClickIP.png)
+![ClickIP](/images/ClickIP.png)
 Find a unknown ISP/ASN for better lists (Bigger companies like Digital Ocean & Amazon have to much protection)
 
 ## Check for vulns (the more the better)
 
-![SearchSSH](/images/CheckVulns.png)
+![CheckVulns](/images/CheckVulns.png)
 
 ## Click on one of the ASN numbers
 
-![SearchSSH](/images/ClickASN.png)
+![ClickASN](/images/ClickASN.png)
 
 ## Copy the ASN Number
 
 ## Go to [Hacker Target Lookup](https://hackertarget.com/as-ip-lookup/) paste ASN number and search
 
-![SearchSSH](/images/SearchASN.png)
+![SearchASN](/images/SearchASN.png)
 
 
 ## Copy all of the ip's
+
+![IPList](/images/IPList.png)
 
 ## Go to [Online Notepad](https://onlinenotepad.org/notepad) or download [Notepad++](https://notepad-plus-plus.org/downloads/)
 
