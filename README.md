@@ -10,11 +10,10 @@
 
 ![SearchSSH](/images/Click22.png)
 
-## Find a unknown ISP/ASN for better lists (Bigger companies like Digital Ocean & Amazon have to much protection)
-
 ## Click an IP adress
 
 ![SearchSSH](/images/ClickIP.png)
+Find a unknown ISP/ASN for better lists (Bigger companies like Digital Ocean & Amazon have to much protection)
 
 ## Check for vulns (the more the better)
 
@@ -22,11 +21,14 @@
 
 ## Click on one of the ASN numbers
 
-![SearchSSH](/images/SearchASN.png)
+![SearchSSH](/images/ClickASN.png)
 
 ## Copy the ASN Number
 
 ## Go to [Hacker Target Lookup](https://hackertarget.com/as-ip-lookup/) paste ASN number and search
+
+![SearchSSH](/images/SearchASN.png)
+
 
 ## Copy all of the ip's
 
