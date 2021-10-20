@@ -8,6 +8,10 @@ Click port 22  at the bottem left
 
 Find a unknown ISP/ASN for better lists (Bigger companies like Digital Ocean & Amazon have to much protection)
 
+Click an IP adress
+
+Check for vulns (the more the better)
+
 Click on one of the ASN numbers
 
 Copy the ASN Number
