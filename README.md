@@ -27,7 +27,7 @@ The more Vulns the better, if you choose a provider with less Vunlns and scan yo
 ![ClickASN](/images/ClickASN.png)
 The more ASN's you search at a time the bigger list you make, make sure to get al least 3-7 ASN's at a time. If you only use 1 you many only get a few IP's like I did.
 
-## Go to [Hacker Target Lookup](https://hackertarget.com/as-ip-lookup/) paste ASN number and search
+## Go to [Hacker Target Lookup](https://hackertarget.com/as-ip-lookup/) paste your ASN number(s) and search
 
 ![SearchASN](/images/SearchASN.png)
 
