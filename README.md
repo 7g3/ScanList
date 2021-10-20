@@ -1,4 +1,4 @@
-# How-To-Make-Botnet-Scan-Lists-
+How to make a Botnet Scan List
 
 Go to https://shodan.io and create an account
 
