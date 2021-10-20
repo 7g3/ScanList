@@ -32,17 +32,16 @@ The more ASN's you search at a time the bigger list you make, make sure to get a
 ![SearchASN](/images/SearchASN.png)
 
 
-## Copy all of the ip's
+## Copy all of the IP's
 
 ![IPList](/images/IPList.png)
 
 ## Go to [Online Notepad](https://onlinenotepad.org/notepad) or download [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-## then click find and replace
+## Then click find and replace
 
 ## Enter  :: into the find and replcace bar, then hit remove all of them (this filters out all of the IPv6'a)
 
 
-As made to by Github so I dont get banned I have to include this disclaimer 
-
+As made to by Github so I dont get banned I have to include this disclaimer:
 I am not responsible for anything you do with this tutorial, by following this tutorial you agree to this disclaimer.
