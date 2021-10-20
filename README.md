@@ -1,6 +1,6 @@
 # How to make a Botnet Scan List
 
-Go to https://account.shodan.io/register and create an account
+Go to [Shodan](https://account.shodan.io/register) and create an account
 
 Seach for SSH in the adress bar
 
@@ -16,11 +16,11 @@ Click on one of the ASN numbers
 
 Copy the ASN Number
 
-Go to https://hackertarget.com/as-ip-lookup/ paste ASN number and search
+Go to [Hacker Target Lookup](https://hackertarget.com/as-ip-lookup/) paste ASN number and search
 
 Copy all of the ip's
 
-Go to https://onlinenotepad.org/notepad or download Notepad++
+Go to [Online Notepad](https://onlinenotepad.org/notepad) or download [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 then click find and replace
 
