@@ -20,6 +20,7 @@ Find a unknown ISP/ASN for better lists (Bigger companies like Digital Ocean & A
 ## Check for vulns (the more the better)
 
 ![CheckVulns](/images/CheckVulns.png)
+The more Vulns the better, if you choose a provider with less Vunlns and scan you could get your server banned faster.
 
 ## Copy the ASN Number(s)
 
@@ -40,3 +41,8 @@ The more ASN's you search at a time the bigger list you make, make sure to get a
 ## then click find and replace
 
 ## Enter  :: into the find and replcace bar, then hit remove all of them (this filters out all of the IPv6'a)
+
+
+As made to by Github so I dont get banned I have to include this disclaimer 
+
+I am not responsible for anything you do with this tutorial, by following this tutorial you agree to this disclaimer.
