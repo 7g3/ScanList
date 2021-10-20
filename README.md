@@ -8,13 +8,21 @@
 
 ## Click port 22  at the bottem left
 
+![SearchSSH](/images/Click22.png)
+
 ## Find a unknown ISP/ASN for better lists (Bigger companies like Digital Ocean & Amazon have to much protection)
 
 ## Click an IP adress
 
+![SearchSSH](/images/ClickIP.png)
+
 ## Check for vulns (the more the better)
 
+![SearchSSH](/images/CheckVulns.png)
+
 ## Click on one of the ASN numbers
+
+![SearchSSH](/images/SearchASN.png)
 
 ## Copy the ASN Number
 
