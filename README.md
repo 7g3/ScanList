@@ -2,6 +2,8 @@
 
 Go to [Shodan](https://account.shodan.io/register) and create an account
 
+![SearchSSH](/images/SearchSSH.png)
+
 Seach for SSH in the adress bar
 
 Click port 22  at the bottem left
